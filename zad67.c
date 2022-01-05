@@ -14,7 +14,7 @@ float volumen(int polumjer,int visina){
 
 int main(){
    int polumjer,visina;
-   printf("Unesi polumjer kugle:\n");
+   printf("Unesi polumjer stozca:\n");
    scanf("%d",&polumjer);
    printf("Unesi visinu stozca:\n");
    scanf("%d",&visina);
